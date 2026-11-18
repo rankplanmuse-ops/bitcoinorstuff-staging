@@ -1,0 +1,4 @@
+:HL["/_next/static/chunks/48dfb5f30c348e09.css","style"]
+:HL["/_next/static/media/Karla-s.p.082dd8c6.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+:HL["/_next/static/media/Karla_Italic-s.p.729234df.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+0:{"buildId":"PqUp63QbwvRXPT4vuBdSw","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"faq","paramType":null,"paramKey":"faq","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
